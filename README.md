@@ -1,2 +1,2 @@
 # Passholder
-TUI programm for storage passwords in encrypted file
+TUI program for storage passwords in encrypted file
